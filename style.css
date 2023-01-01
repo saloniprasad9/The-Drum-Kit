@@ -1,0 +1,95 @@
+body{
+    text-align: center;
+    background-color: #a06060;
+}
+
+.headings{
+
+    font-family: century;
+    font-size  : 5rem;
+    text-align :center;
+    color: #DBEDF3;
+    margin : 40px 0px;
+    font-family: cursive;
+    text-shadow: 3px 0 #DA0463;
+
+}
+
+.d{
+    background-image: url(images/karaoke.png);
+}
+
+.r{
+    background-image: url(images/music.png);
+}
+
+.u{
+    background-image: url(images/music\ \(1\).png);
+}
+
+.m{
+    background-image: url(images/music\ \(2\).png);
+}
+
+.k{
+    background-image: url(images/musical-instrument.png);
+}
+
+.i{
+    background-image: url(images/speakers.png);
+}
+
+.t{
+    background-image: url(images/vinyl-record.png);
+
+}
+
+.all{
+    margin: 10%;
+}
+
+
+.animation {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
+.image{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.image1{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+
+}
+
+
+.button {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 110px;
+    height: 120px;
+    text-align: center;
+    margin: 30px;
+    background-color: white;
+    border: 0;
+    background-size: 100%;
+    background-size: 40px auto;
+    bottom: 30%;
+    margin-top: 10%;
+}
+
+
